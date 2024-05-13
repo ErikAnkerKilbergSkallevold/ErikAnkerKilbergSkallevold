@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ErikAnkerKilbergSkallevold
-- 👀 I’m interested in designing programs and services that users want to use.
-- 🌱 I’m currently studying Informatics: Design, Use and Interaction at the University of Oslo.
-- 💞️ I’m looking to collaborate if you need someone with knowledge of user-centric-design.
+- 🌱 I’m currently employed at Appfarm
 - 📫 You can reach me at erik.skallevold@gmail.com
 
 <!---
